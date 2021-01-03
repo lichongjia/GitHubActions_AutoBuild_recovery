@@ -1,0 +1,16 @@
+{
+  "twrp_url": "https://github.com/minimal-manifest-twrp/platform_manifest_twrp_omni",
+  "twrp_branch": "twrp-7.1",
+  "git_username": "lichongjia",
+  "git_email": "4331049+lichongjia@users.noreply.github.com",
+  "use_own_dt": true,
+  "dt_url": "gbdb123/android_device_360_QK1505",
+  "dt_branch": "cm-14.1",
+  "dt_remote": "github",
+  "dt_path": "device/360/QK1505",
+  "device_code": "QK1505",
+  "fix_product": false,
+  "fix_misscom": false,
+  "fix_busybox": false,
+  "fix_branch": "android-7.1"
+}
